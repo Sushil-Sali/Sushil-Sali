@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sushil Sali</h1>
 <h3 align="center">🚀 MERN Stack Developer | 💡 Backend Enthusiast | Lifetime Learner | 🇮🇳 Based in India</h3>
 
-<img align="right" alt="coding" width="400" src="https://png.pngtree.com/background/20250128/original/pngtree-a-cartoon-boy-wearing-glasses-and-hoodie-is-coding-on-his-picture-image_16247383.jpg" />
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sushilsali&label=Profile%20views&color=0e75b6&style=flat" alt="sushilsali" />
 </p>
