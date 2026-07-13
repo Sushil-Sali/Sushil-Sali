@@ -118,18 +118,6 @@ Responsive React application that fetches real-time weather data using a weather
 - 💼 LinkedIn: https://www.linkedin.com/in/sushil-sali-23a939260
 - 🌐 Portfolio: https://sushil-sali.github.io/portfolio/
 
----
+  
 
-### 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushilsali&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilsali&show_icons=true&locale=en" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilsali&" />
-</p>
