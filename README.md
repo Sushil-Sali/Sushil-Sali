@@ -20,7 +20,7 @@
 ### 💼 Experience
 
 **Node.js Backend Developer Intern**  
-**Talentrise Technokrate Pvt. Ltd. | 4 Months (Completed)**
+**Talentrise Technokrate Pvt. Ltd. | 6 Months (Completed)**
 
 Worked on a live ERP/CRM system **Softwave-Technify**, designed for affiliate-based lead and commission management.
 
